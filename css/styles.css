@@ -1,0 +1,8 @@
+*{
+
+    max-width: 100vh;
+    margin-top: auto;
+    display: flex;
+    background-color: brown;
+    font-family: 'Courier New', Courier, monospace;
+}
